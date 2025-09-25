@@ -1,6 +1,4 @@
-# api-follower
-# api-like
-# api-view
+SosialMedia API
 
 #tiktokapi #tiktokview #tiktoklike #tiktokfollower
 
